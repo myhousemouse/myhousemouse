@@ -49,7 +49,6 @@
 **Infra & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
@@ -62,7 +61,6 @@
 
 <br/>
 
----
 
 <br/>
 
@@ -81,22 +79,6 @@
 
 <div align="center">
 
----
-
-<br/>
-
-## 📊 &nbsp; GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=myhousemouse&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=7B8CDE&text_color=636E72&icon_color=E0C3FC" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myhousemouse&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=7B8CDE&text_color=636E72" height="160" />
-
-<br/>
-<br/>
-
----
 
 <br/>
 
