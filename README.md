@@ -88,7 +88,7 @@
 
 [![Email](https://img.shields.io/badge/rkvpd1@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:rkvpd1@naver.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://accidental-ironclad-397.notion.site/2463eee3a704802789e4d2c914c6c173)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9D%80%EC%A7%80-%EB%82%A8-2591983b9/)
+[![LinkedIn](https://www.linkedin.com/in/eunji-nam-2591983b9/)
 
 <br/>
 <br/>
