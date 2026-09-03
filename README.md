@@ -19,6 +19,14 @@
 - Python RAG 챗봇과 Java/Spring Boot 개발 경험을 바탕으로 기술 구조와 구현 가능성을 고려해 협업합니다.
 - 문헌정보학과 경영정보학을 함께 공부하며 정보 구조화, 데이터, 비즈니스를 연결하고 있습니다.
 
+## Experience
+
+- **리트머스 AX 인턴** · 현업 요구사항 기획 및 개발, PoC 검증, 대시보드 기획·QA (2026.04–2026.05)
+- **인크루트 현장실습** · AI 데이터 3,000건 이상 품질 검수 및 판단 기준 정립 (2025.01–2025.02)
+- **경기대학교 소성박물관** · 자료 아카이빙 및 메타데이터 표준화 (2023.03–2026.02)
+- **쎄듀 서비스 기획 & QA** · 보카테스트 앱 기획 리서치 및 UI/UX 개선안 도출 (2026.08.31-2026.11.06)
+  
+
 ## Selected Impact
 
 | 경험 | 문제와 접근 | 결과 |
@@ -31,7 +39,7 @@
 
 ## Featured Projects
 
-### 🌱 텃밭닥터 · AI Service Planning / PM
+### 01. 텃밭닥터 · AI Service Planning / PM
 
 농작물 진단에서 끝나지 않고 후속 상담과 성장 기록까지 이어지는 도시농업 서비스입니다.
 
@@ -40,9 +48,9 @@
 - 근거 부족·예외 질문에서 재질문하도록 fallback 설계
 - Stack: `Python` `Java 17` `MySQL` `AWS`
 
-[AI Server](https://github.com/KSEB-AI-3/gardendoctor_ai-server) · [Backend](https://github.com/KSEB-AI-3/gardendoctor-backend)
+[AI Server](https://github.com/KSEB-AI-3/gardendoctor_ai-server)
 
-### 🤖 리트머스 AX 협업 도구 · Service Planning / PoC
+### 02. 리트머스 AX 협업 도구 · Service Planning / PoC
 
 고객사와 PM의 요청·회의·문서를 하나의 업무 흐름으로 연결한 AI 협업 도구입니다.
 
@@ -51,7 +59,7 @@
 - STT 이후 결정사항·액션 아이템·담당자·기한을 구조화하는 AI 회의 요약 설계
 - AI Agent와 MCP를 활용해 현업 확인용 프로토타입 구현
 
-### ⛰️ 세모산 · PM / Service Planning
+### 03. 세모산 · PM / Service Planning
 
 2030 등산 초보자가 등산 전·중·후의 불확실성을 줄이고, 기록과 성취를 이어가도록 설계한 등산 가이드 서비스입니다.
 
@@ -61,9 +69,9 @@
 - 기능명세, GUI, API 명세, ERD를 연결해 디자인·개발 파트 협업
 - 앱스토어 출시 및 큐시즘 앱 부문 최우수상 수상
 
-[Service](https://semosan-fe.vercel.app/)
+[Service](https://apps.apple.com/kr/app/semosan/id6770389449)
 
-### 📊 인플레이스 · PM / Product Analytics
+### 04. 인플레이스 · PM / Product Analytics
 
 마케터가 신뢰할 수 있는 인플루언서를 찾고, 크리에이터가 채널 성장과 수익화 가능성을 분석하도록 돕는 서비스입니다.
 
@@ -73,15 +81,15 @@
 - Meta 광고 유입과 GA4 행동 데이터를 바탕으로 랜딩→핵심 기능→회원가입 전환 분석
 - 활성 사용자 187명, 신규 사용자 176명, 조회수 3,898회, 이벤트 4,807건을 근거로 핵심 기능 일부를 로그인 전에 공개
 
-[Project Organization](https://github.com/JECT-Study)
+[Project Organization](https://inflace.site)
 
-### 🚌 꿈마중버스 · Backend
+### 05. 꿈마중버스 · Backend
 
 동시 승차 요청과 시간·경로 충돌 등 예외 상황을 정의하고 조건 및 우선순위 기반 배차 로직을 구현했습니다.
 
 [Repository](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_26_BE)
 
-### 🎓 PointCareer · Backend
+### 06. PointCareer · Backend
 
 경기대생을 위한 포인트 관리 및 교내 추천 채용 정보 서비스의 백엔드를 개발했습니다.
 
@@ -97,12 +105,6 @@
 | **Data** | SQL, 데이터 정제, 품질 검수, 메타데이터 표준화 |
 | **Development** | Python, Java, Spring Boot, MySQL, AWS, Vercel |
 
-## Experience
-
-- **리트머스 AX 인턴** · 현업 요구사항 기획 및 개발, PoC 검증, 대시보드 기획·QA (2026.04–2026.05)
-- **인크루트 현장실습** · AI 데이터 3,000건 이상 품질 검수 및 판단 기준 정립 (2025.01–2025.02)
-- **경기대학교 소성박물관** · 자료 아카이빙 및 메타데이터 표준화 (2023.03–2026.02)
-- **쎄듀 서비스 기획 & QA** · 보카테스트 앱 기획 리서치 및 UI/UX 개선안 도출 (2026.08.31-2026.11.06)
 
 ## Education & Credentials
 
